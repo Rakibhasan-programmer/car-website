@@ -12,3 +12,21 @@
     color: #FFF !important;
     cursor: pointer;
 }
+.banner{
+    background-image: url('../images/banner-1.webp'), linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.7));
+    background-blend-mode: overlay;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icon{
+    width: 1.5rem;
+    height: 1.3rem;
+}
+.color-secondary{
+    color: #868686;
+    font-weight: bold;
+}
+.secondary-bg{
+    background-color: #404040;
+}
